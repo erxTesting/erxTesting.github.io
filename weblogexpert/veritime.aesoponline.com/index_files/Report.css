@@ -1,0 +1,24 @@
+body { font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+td { font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+a:active { color: #0000CC; text-decoration: none; }
+a:link { color: #0000CC; text-decoration: none; }
+a:visited { color: #0000FF; text-decoration: none; }
+a:hover { color: #0000FF; text-decoration: underline; }
+.TableTitleRow { background-color: #C8D6E5; font-weight: bold; text-align: center; }
+.TableTitle { font-weight: bold; text-align: center; font-size: 13px; }
+.TableRow1 { background-color: #FFFFFF; }
+.TableRow2 { background-color: #EEEEEE; }
+.TableSolidRow { font-weight: bold; background-color: #C8D6E5; }
+.TableSummaryRow { font-weight: bold; background-color: #E0E9F3; }
+.TableCell { padding-left: 5px; padding-right: 5px; line-height: 14px }
+.TableChartBarCell { padding-left: 3px; padding-right: 3px; }
+.TableChartBar { height: 12px; background-color: #5179D6; }
+.ReportTitle { font-weight: bold; font-size: 17px; }
+.CategoryTitle { font-weight: bold; font-size: 17px; }
+.SinglePageCategoryTitle { font-weight: bold; font-size: 17px; }
+.ChartTitle { font-weight: bold; text-align: center; font-size: 13px; }
+.SectionTitle { font-weight: bold; text-align: center; font-size: 13px; background-color: #6699CC; color: #FFFFFF; }
+.TOC { background-image: url(contents_back.gif); background-repeat: repeat-x; }
+.TranslatedContentsTitle { color: #333333; font-weight: bold; font-size: 15px; }
+.Information { font-weight: bold; text-align: center; font-size: 13px; }
+.DatePicker { font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
